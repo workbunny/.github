@@ -12,3 +12,10 @@
 -->
 
 这只是个even-loop玩具
+
+
+  2022-05-09:
+
+  目前ext-parallel还未支持PHP8.X，所以该项目仅实现了简单的基于libevent等基于系统I/O复用事件驱动的event-loop；
+
+  等待ext-parallel的支撑
