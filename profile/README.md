@@ -1,37 +1,57 @@
-## Hi there 👋 一个even-loop玩具
+## 欢迎！这里是 🐰 WorkBunny👋
 
-<!--
+---
+## 🐰 简介
 
-**Here are some ideas to get you started:**
+**这是一个“吃饱了撑的”的开源小组，可能会去尝试解决已解决的问题，从而写一些已经写过了的代码；**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**当然，有可能灵光乍现，写了一些别人没写过的代码，解决一些别人没有解决的问题，随缘吧！**
 
-    一个event-loop实验品；
+**在这里，我们研究如何写出一些小而精、快而稳、可以像兔子一样成群结队的程序；**
 
-    是一个类似ReactPHP、AMPHP的事件循环组件；
+**我们主要关注的开发语言有 PHP 、 Golang 、 Python；**
 
-    该项目主要研究ext-parallel和PHP-fiber在event-loop中如何有效结合，
-    研究PHP在不利用ext-event、ext-ev、ext-uv等拓展的前提下是否可以实现
-    更高的处理能力。
+**当然，我们不介意有更多！**
 
-    An event loop experiment;
+---
 
-    It is an event loop component similar to ReactPHP and AMPHP;
+## 🐰 项目
 
-    This project mainly studies how ext-parallel and PHP-fiber can
-    be effectively combined in event-loop, and studies whether PHP 
-    can achieve higher processing power without using extensions 
-    like ext-event, ext-ev, ext-uv, etc.
-___
+- workbunny/webman-nacos
+> 语言：PHP
+> 
+> 性质：webman插件
+> 
+> 描述：一个webman的nacos客户端插件
 
 
-    2022-05-09:
+- workbunny/event-loop
+> 语言：PHP
+> 
+> 性质：库
+> 
+> 描述：基于事件驱动拓展的PHP高性能事件循环库
 
-    目前ext-parallel还未支持PHP8.X，所以该项目仅实现了简单的基于libevent等基于系统I/O复用事件驱动的event-loop；
+        2022-05-09:
 
-    等待ext-parallel的支撑
+        目前ext-parallel还未支持PHP8.X，所以该项目仅实现了简单的基于libevent等基于系统I/O复用事件驱动的event-loop；
+
+        等待ext-parallel的支撑
+ 
+
+
+- workbunny/php-bunny **plan**
+> 语言：PHP
+    
+> 性质：服务
+    
+> 描述：基于PHP开发的轻量级高性能调度服务
+
+
+- workbunny/go-bunny **plan**
+> 语言：Golang
+    
+> 性质：服务
+    
+> 描述：基于Golang开发的轻量级高性能调度服务
+
