@@ -19,12 +19,12 @@
 
 |项目|语言|简介|
 |:---:|:---:|:---:|
-|[workbunny/workbunny](https://githu.com/workbunny/workbunny) **plan**|PHP & Golang|高性能轻量级的任务调度服务|
-|[workbunny/process](https://githu.com/workbunny/process)|PHP|基于PHP的高性能轻量级多进程助手|
-|[workbunny/event-loop](https://githu.com/workbunny/event-loop)|PHP|基于事件驱动拓展的PHP高性能轻量级事件循环库|
+|[workbunny/workbunny](https://github.com/workbunny/workbunny) **plan**|PHP & Golang|高性能轻量级的任务调度服务|
+|[workbunny/process](https://github.com/workbunny/process)|PHP|基于PHP的高性能轻量级多进程助手|
+|[workbunny/event-loop](https://github.com/workbunny/event-loop)|PHP|基于事件驱动拓展的PHP高性能轻量级事件循环库|
 |[workbunny/storage](https://github.com/workbunny/storage)|PHP|基于SQlite3的高性能轻量级储存器|
-|[workbunny/webman-nacos](https://githu.com/workbunny/webman-nacos)|PHP|一个webman的nacos客户端插件|
-|[workbunny/webman-rabbitmq](https://githu.com/workbunny/webman-rabbitmq)|PHP|一个webman的rabbitMQ客户端插件|
+|[workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)|PHP|一个webman的nacos客户端插件|
+|[workbunny/webman-rabbitmq](https://github.com/workbunny/webman-rabbitmq)|PHP|一个webman的rabbitMQ客户端插件|
 
 > 2022-05-09:
 >
