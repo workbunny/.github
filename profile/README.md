@@ -24,7 +24,7 @@
 |[workbunny/event-loop](https://githu.com/workbunny/event-loop)|PHP|基于事件驱动拓展的PHP高性能轻量级事件循环库|
 |[workbunny/storage](https://github.com/workbunny/storage)|PHP|基于SQlite3的高性能轻量级储存器|
 |[workbunny/webman-nacos](https://githu.com/workbunny/webman-nacos)|PHP|一个webman的nacos客户端插件|
-
+|[workbunny/webman-rabbitmq](https://githu.com/workbunny/webman-rabbitmq)|PHP|一个webman的rabbitMQ客户端插件|
 
 > 2022-05-09:
 >
