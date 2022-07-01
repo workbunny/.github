@@ -23,8 +23,9 @@
 |[workbunny/process](https://github.com/workbunny/process)|PHP|基于PHP的高性能轻量级多进程助手|
 |[workbunny/event-loop](https://github.com/workbunny/event-loop)|PHP|基于事件驱动拓展的PHP高性能轻量级事件循环库|
 |[workbunny/storage](https://github.com/workbunny/storage)|PHP|基于SQlite3的高性能轻量级储存器|
-|[workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)|PHP|一个webman的nacos客户端插件|
-|[workbunny/webman-rabbitmq](https://github.com/workbunny/webman-rabbitmq)|PHP|一个webman的rabbitMQ客户端插件|
+|[workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)|PHP|Webman的Nacos客户端插件|
+|[workbunny/webman-rabbitmq](https://github.com/workbunny/webman-rabbitmq)|PHP|Webman的RabbitMQ客户端插件|
+|[workbunny/webman-rqueue](https://github.com/workbunny/webman-rqueue)|PHP|Webman的Redis-Stream轻量级队列插件|
 
 > 2022-05-09:
 >
