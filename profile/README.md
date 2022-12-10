@@ -25,6 +25,8 @@
 |[workbunny/webman-rabbitmq](https://github.com/workbunny/webman-rabbitmq)|Webman的RabbitMQ客户端插件|
 |[workbunny/webman-rqueue](https://github.com/workbunny/webman-rqueue)|Webman的Redis-Stream轻量级队列插件|
 |[workbunny/webman-push-server](https://github.com/workbunny/webman-push-server)|Webman的即时通讯服务端插件|
+|[workbunny/webman-ip-attribution](https://github.com/workbunny/webman-ip-attribution)|Webman的IP本地库插件|
+
 
 ### 自我折腾项目
 
