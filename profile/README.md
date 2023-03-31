@@ -10,7 +10,7 @@ Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一�
 - 基于SQLite3的PHP储存驱动 [workbunny/storage](https://github.com/workbunny/storage)
 
 ## 🐰 Webman Plugins
-以下是一些长期维护的Webman生态插件，均在生产环境下得到至少半年间验证：
+以下是一些长期维护的Webman生态插件，均在生产环境下得到至少半年以上时间的验证：
 
 - Webman的Nacos客户端插件 [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
 - Webman的RabbitMQ客户端插件 [workbunny/webman-rabbitmq](https://github.com/workbunny/webman-rabbitmq)
