@@ -1,4 +1,4 @@
-<p align="center"><img width="160px" src="https://chaz6chez.cn/images/workbunny-logo.png" alt="workbunny"></p>
+<p align="center"><img width="150px" src="https://chaz6chez.cn/images/workbunny-logo.png" alt="workbunny"></p>
 
 ## 🐰 Workbunny Group
 Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一定约束下的重复制造轮子可以带来新的创新或者是新的思考；
