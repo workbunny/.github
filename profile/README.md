@@ -1,37 +1,19 @@
-## 欢迎！这里是 🐰 WorkBunny👋
+<p align="center"><img width="260px" src="https://chaz6chez.cn/images/workbunny-logo.png" alt="workbunny"></p>
 
----
-## 🐰 简介
+## 🐰 Workbunny Group
+Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一定约束下的重复制造轮子可以带来新的创新或者是新的思考；
+目前主要围绕PHP-cli进行开发，包括一些开发一些可以直接投入使用的服务、一些可以即插即用的composer组件以及一些围绕webman生态的插件；
+未来可能会进行一些其它语言的探索，比如Rust、Python，但我希望未来PHP的开发环境会更好。
 
-**这是一个“吃饱了撑的”的开源小组，可能会去尝试解决已解决的问题，从而写一些已经写过了的代码；**
+- 轻量的PHP多进程助手库 [workbunny/process](https://github.com/workbunny/process) 
+- 基于事件驱动拓展的PHP高性能轻量级事件循环库 [workbunny/event-loop](https://github.com/workbunny/event-loop)
+- 基于SQLite3的PHP储存驱动 [workbunny/storage](https://github.com/workbunny/storage)
 
-**当然，有可能灵光乍现，写了一些别人没写过的代码，解决一些别人没有解决的问题，随缘吧！**
+## 🐰 Webman Plugins
+以下是一些长期维护的Webman生态插件，均在生产环境下得到至少半年间验证：
 
-**在这里，我们研究如何写出一些小而精、快而稳、可以像兔子一样成群结队的程序；**
-
-**我们主要关注的开发语言有 PHP 、Python、Golang；**
-
-**当然，我们不介意有更多！**
-
----
-
-## 🐰 项目
-
-### webman生态插件
-
-|项目|简介|
-|:---:|:---:|
-|[workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)|Webman的Nacos客户端插件|
-|[workbunny/webman-rabbitmq](https://github.com/workbunny/webman-rabbitmq)|Webman的RabbitMQ客户端插件|
-|[workbunny/webman-rqueue](https://github.com/workbunny/webman-rqueue)|Webman的Redis-Stream轻量级队列插件|
-|[workbunny/webman-push-server](https://github.com/workbunny/webman-push-server)|Webman的即时通讯服务端插件|
-|[workbunny/webman-ip-attribution](https://github.com/workbunny/webman-ip-attribution)|Webman的IP本地库插件|
-
-
-### 自我折腾项目
-
-|项目|语言|简介|
-|:---:|:---:|:---:|
-|[workbunny/process](https://github.com/workbunny/process)|PHP|基于PHP的高性能轻量级多进程助手|
-|[workbunny/event-loop](https://github.com/workbunny/event-loop)|PHP|基于事件驱动拓展的PHP高性能轻量级事件循环库|
-|[workbunny/storage](https://github.com/workbunny/storage)|PHP|基于SQlite3的高性能轻量级储存器|
+- Webman的Nacos客户端插件 [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
+- Webman的RabbitMQ客户端插件 [workbunny/webman-rabbitmq](https://github.com/workbunny/webman-rabbitmq)
+- Webman的Redis-Stream轻量级队列插件 [workbunny/webman-rqueue](https://github.com/workbunny/webman-rqueue)
+- Webman的即时通讯服务端插件 [workbunny/webman-push-server](https://github.com/workbunny/webman-push-server)
+- Webman的IP本地库插件 [workbunny/webman-ip-attribution](https://github.com/workbunny/webman-ip-attribution)
