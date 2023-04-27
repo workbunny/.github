@@ -14,6 +14,14 @@ Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一�
 
 - Webman的Nacos客户端插件 [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos)
 - Webman的RabbitMQ客户端插件 [workbunny/webman-rabbitmq](https://github.com/workbunny/webman-rabbitmq)
+  - 1.x 生产验证
+  - 2.x-alpha 增加了对各种消费模式的支持
 - Webman的Redis-Stream轻量级队列插件 [workbunny/webman-rqueue](https://github.com/workbunny/webman-rqueue)
+  - 1.x 生产验证
+  - 2.x-alpha 增加了消费模式
 - Webman的即时通讯服务端插件 [workbunny/webman-push-server](https://github.com/workbunny/webman-push-server)
 - Webman的IP本地库插件 [workbunny/webman-ip-attribution](https://github.com/workbunny/webman-ip-attribution)
+  - 长期维护本地ip库（什么时候记起来了什么时候更新一下）
+
+## 🐰 Experimental 
+- Webman的基于SQLite的限流插件 [workbunny/webman-rate-limiter](https://github.com/workbunny/webman--rate-limiter)
