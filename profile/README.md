@@ -20,8 +20,7 @@ Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一�
   - 1.x 已生产验证
   - 2.x-alpha 增加消费模式
 - Webman的即时通讯服务端插件 [workbunny/webman-push-server](https://github.com/workbunny/webman-push-server) | [项目计划](https://github.com/orgs/workbunny/projects/6) 
-- Webman的IP本地库插件 [workbunny/webman-ip-attribution](https://github.com/workbunny/webman-ip-attribution)
-  - 长期维护本地ip库（什么时候记起来了什么时候更新一下）
+- Webman的IP本地库插件 [workbunny/webman-ip-attribution](https://github.com/workbunny/webman-ip-attribution) | 长期维护本地ip库（什么时候记起来了什么时候更新一下）
 
 ## 🐰 Experimental 
 - Webman的基于SQLite的限流插件 [workbunny/webman-rate-limiter](https://github.com/workbunny/webman--rate-limiter)
