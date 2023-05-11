@@ -5,7 +5,7 @@ Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一�
 目前主要围绕PHP-cli进行开发，包括开发一些可以直接投入使用的服务程序、一些可以即插即用的composer组件以及一些围绕webman生态的插件；
 未来我们会进行一些其它语言的探索，比如Rust、Python，但始终希望未来PHP的开发环境会更好。
 
-- 轻量的PHP多进程助手库 [workbunny/process](https://github.com/workbunny/process) 
+- 轻量的PHP多进程助手库 [workbunny/process](https://github.com/workbunny/process) | 对pcntl_fork()的极简化封装，让多进程更简单易懂
 - 基于事件驱动拓展的PHP高性能轻量级事件循环库 [workbunny/event-loop](https://github.com/workbunny/event-loop) | 比较好的event-loop教学用库，包含较完善的测试用例
 
 ## 🐰 Webman Plugins
