@@ -11,16 +11,16 @@ Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一�
 ## 🐰 Webman Plugins
 以下是一些长期维护的Webman生态插件，均在生产环境下得到至少半年以上时间的验证：
 
-- Webman的Nacos客户端插件 [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos) | [项目计划](https://github.com/orgs/workbunny/projects/5)
-- Webman的RabbitMQ客户端插件 [workbunny/webman-rabbitmq](https://github.com/workbunny/webman-rabbitmq) | [项目计划](https://github.com/orgs/workbunny/projects/4)
+- Webman的Nacos客户端插件 [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos) | **LTS** | [项目计划](https://github.com/orgs/workbunny/projects/5)
+- Webman的RabbitMQ客户端插件 [workbunny/webman-rabbitmq](https://github.com/workbunny/webman-rabbitmq) | **LTS** | [项目计划](https://github.com/orgs/workbunny/projects/4)
   - 1.x 长期支持
   - 2.0.0-beta-1 已发布
-- Webman的Redis-Stream轻量级队列插件 [workbunny/webman-rqueue](https://github.com/workbunny/webman-rqueue) | [项目计划](https://github.com/orgs/workbunny/projects/3) 
-  - 1.x 建议升级至2.x
+- Webman的Redis-Stream轻量级队列插件 [workbunny/webman-rqueue](https://github.com/workbunny/webman-rqueue) | **LTS** | [项目计划](https://github.com/orgs/workbunny/projects/3) 
+  - 1.x **预计2024年Q1放弃维护，建议升级至2.x**
   - 2.x 长期支持
-- Webman的即时通讯服务端插件 [workbunny/webman-push-server](https://github.com/workbunny/webman-push-server) | [项目计划](https://github.com/orgs/workbunny/projects/6)
+- Webman的即时通讯服务端插件 [workbunny/webman-push-server](https://github.com/workbunny/webman-push-server) | **LTS** | [项目计划](https://github.com/orgs/workbunny/projects/6)
   - 1.x 长期支持
-- Webman的IP本地库插件 [workbunny/webman-ip-attribution](https://github.com/workbunny/webman-ip-attribution) | 长期维护本地ip库（什么时候记起来了什么时候更新一下）
+- Webman的IP本地库插件 [workbunny/webman-ip-attribution](https://github.com/workbunny/webman-ip-attribution) | **LTS** | 长期维护本地ip库（什么时候记起来了什么时候更新一下）
 
 ## 🐰 Experimental 
 - 基于SQLite3的PHP储存驱动 [workbunny/storage](https://github.com/workbunny/storage)
