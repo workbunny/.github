@@ -9,6 +9,7 @@ Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一�
 以下是一些长期维护的Webman生态插件，均在生产环境下得到至少半年以上时间的验证：
 
 - Webman的Nacos客户端插件 [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos) | **LTS** | [项目计划](https://github.com/orgs/workbunny/projects/5)
+  - 1.x 长期支持  
 - Webman的RabbitMQ客户端插件 [workbunny/webman-rabbitmq](https://github.com/workbunny/webman-rabbitmq) | **LTS** | [项目计划](https://github.com/orgs/workbunny/projects/4)
   - 2.x 长期支持
 - Webman的Redis-Stream轻量级队列插件 [workbunny/webman-rqueue](https://github.com/workbunny/webman-rqueue) | **LTS** | [项目计划](https://github.com/orgs/workbunny/projects/3) 
