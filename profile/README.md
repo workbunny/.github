@@ -23,4 +23,4 @@ Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一�
 - 轻量的PHP多进程助手库 [workbunny/process](https://github.com/workbunny/process) | 对pcntl_fork()的极简化封装，让多进程更简单易懂
 - 基于事件驱动拓展的PHP高性能轻量级事件循环库 [workbunny/event-loop](https://github.com/workbunny/event-loop) | 比较好的event-loop教学用库，包含较完善的测试用例
 - 基于SQLite3的PHP储存驱动 [workbunny/storage](https://github.com/workbunny/storage)
-- Webman的基于SQLite的限流插件 [workbunny/webman-rate-limiter](https://github.com/workbunny/webman--rate-limiter)
+- Webman的基于SQLite的限流插件 [workbunny/webman-rate-limiter](https://github.com/workbunny/webman-rate-limiter)
