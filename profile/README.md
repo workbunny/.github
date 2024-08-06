@@ -15,7 +15,7 @@ Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一�
 - Webman的Redis-Stream轻量级队列插件 [workbunny/webman-rqueue](https://github.com/workbunny/webman-rqueue) | **LTS** | [项目计划](https://github.com/orgs/workbunny/projects/3) 
   - 2.0 长期技术支持
 - Webman的即时通讯服务端插件 [workbunny/webman-push-server](https://github.com/workbunny/webman-push-server) | **LTS** | [项目计划](https://github.com/orgs/workbunny/projects/6)
-  - 3.0 当前beta
+  - 3.0 长期技术支持
   - 2.0 长期技术支持
 - Webman的高速共享缓存插件 [workbunny/webman-shared-cache](https://github.com/workbunny/webman-shared-cache) | **LTS** | [项目计划](https://github.com/orgs/workbunny/projects/9)
 - Webman的IP本地库插件 [workbunny/webman-ip-attribution](https://github.com/workbunny/webman-ip-attribution) | **LTS** | 长期维护本地ip库（什么时候记起来了什么时候更新一下）
