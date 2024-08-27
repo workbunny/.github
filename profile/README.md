@@ -25,3 +25,8 @@ Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一�
 - 基于事件驱动拓展的PHP高性能轻量级事件循环库 [workbunny/event-loop](https://github.com/workbunny/event-loop) | 比较好的event-loop教学用库，包含较完善的测试用例
 - 基于SQLite3的PHP储存驱动 [workbunny/storage](https://github.com/workbunny/storage)
 - Webman的基于SQLite的限流插件 [workbunny/webman-rate-limiter](https://github.com/workbunny/webman-rate-limiter)
+
+## 🤝 Links
+- 开源技术小栈 Wechat Officialaccounts
+
+  <img width="150px" src="https://mmbiz.qpic.cn/mmbiz_png/78qLgY8U7F1umT6oaVuKCN4ibKqiaNOHjCdTKVl1405iczs6IrutF1WXM0otcAGWeedibdCNvcDoDYfGTZDYviacXUA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="workbunny">
