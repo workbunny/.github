@@ -6,6 +6,10 @@ Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一�
 未来我们会进行一些其它语言的探索，比如Rust、Python，但始终希望未来PHP的开发环境会更好。
 
 ## 🐰 Webman Plugins
+正在开发的插件：
+
+- Webman的协程基建 [workbunny/webman-coroutine](https://github.com/workbunny/webman-coroutine) | **dev**
+
 以下是一些长期维护的Webman生态插件，均在生产环境下得到至少半年以上时间的验证：
 
 - Webman的Nacos客户端插件 [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos) | **LTS** | [项目计划](https://github.com/orgs/workbunny/projects/5)
