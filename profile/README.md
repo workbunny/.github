@@ -7,7 +7,7 @@ Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一�
 
 ## 🐰 Webman Plugins
 
-- Webman的协程基建 [workbunny/webman-coroutine](https://github.com/workbunny/webman-coroutine) | **LTS**
+- Webman/workerman的协程基建 [workbunny/webman-coroutine](https://github.com/workbunny/webman-coroutine) | **LTS** | 支持webman框架、纯workerman开发环境
 
 以下插件至少1年以上生产环境验证：
 
