@@ -6,11 +6,10 @@ Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一�
 未来我们会进行一些其它语言的探索，比如Rust、Python，但始终希望未来PHP的开发环境会更好。
 
 ## 🐰 Webman Plugins
-Alpha 插件：
 
-- Webman的协程基建 [workbunny/webman-coroutine](https://github.com/workbunny/webman-coroutine) | **alpha**
+- Webman的协程基建 [workbunny/webman-coroutine](https://github.com/workbunny/webman-coroutine) | **LTS**
 
-以下是一些长期维护的Webman生态插件，均在生产环境下得到至少半年以上时间的验证：
+以下插件至少1年以上生产环境验证：
 
 - Webman的Nacos客户端插件 [workbunny/webman-nacos](https://github.com/workbunny/webman-nacos) | **LTS** | [项目计划](https://github.com/orgs/workbunny/projects/5)
   - 1.0 长期技术支持  
@@ -23,6 +22,8 @@ Alpha 插件：
   - 2.0 长期技术支持
 - Webman的高速共享缓存插件 [workbunny/webman-shared-cache](https://github.com/workbunny/webman-shared-cache) | **LTS** | [项目计划](https://github.com/orgs/workbunny/projects/9)
 - Webman的IP本地库插件 [workbunny/webman-ip-attribution](https://github.com/workbunny/webman-ip-attribution) | **LTS** | 长期维护本地ip库（什么时候记起来了什么时候更新一下）
+
+> 所有插件均含有较为完备的单元测试，请放心使用
 
 ## 🐰 Experimental 
 - 轻量的PHP多进程助手库 [workbunny/process](https://github.com/workbunny/process) | 对pcntl_fork()的极简化封装，让多进程更简单易懂
