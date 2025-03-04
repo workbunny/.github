@@ -27,6 +27,7 @@ Workbunny小组是一个活跃的爱折腾的开发小组，我们相信在一�
 
 ## 🐰 Experimental 
 - Apache ORC读写库的PHP实现 [workbunny/php-orc](https://github.com/workbunny/php-orc) | 基于swoole/PHPy内联调用python/pyorc实现
+- HTMX拓展 WebUI 组件库 [workbunny/bunny-ui](https://github.com/workbunny/bunny-ui) | 一套 HTMX 开发模式的 Web UI 组件库
 - 轻量的PHP多进程助手库 [workbunny/process](https://github.com/workbunny/process) | 对pcntl_fork()的极简化封装，让多进程更简单易懂
 - 基于事件驱动拓展的PHP高性能轻量级事件循环库 [workbunny/event-loop](https://github.com/workbunny/event-loop) | 比较好的event-loop教学用库，包含较完善的测试用例
 - 基于SQLite3的PHP储存驱动 [workbunny/storage](https://github.com/workbunny/storage)
