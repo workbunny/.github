@@ -6,8 +6,8 @@
 
 ## 🚀 Webman-plugins
 
-- [`Webman/workerman`的协程套件](https://github.com/workbunny/webman-coroutine) | **LTS** | 支持兼容新旧版本的`webman/workerman`的协程套件
-- [`Webman`的即时通讯服务套件](https://github.com/workbunny/webman-push-server) | **LTS** | 基于`Redis`的即时通讯服务套件
+- [`Webman/workerman`的协程套件](https://github.com/workbunny/webman-coroutine) | **LTS** | `webman/workerman`的协程套件包，支持新版`webman/workerman`并兼容旧版`webman/workerman`
+- [`Webman`的即时通讯服务套件](https://github.com/workbunny/webman-push-server) | **LTS** | 基于`Redis`的即时通讯服务套件，支持分布式部署、多种颗粒度部署
 - [`Webman`的高速共享缓存套件](https://github.com/workbunny/webman-shared-cache) | **LTS** | 基于`ext-APCu`的进程通讯、高速缓存套件
 - [`Webman`的`Nacos`客户端](https://github.com/workbunny/webman-nacos) | **LTS** | `Nacos 1.0/2.0` 客户端
 - [`Webman`的`RabbitMQ`客户端](https://github.com/workbunny/webman-rabbitmq) | **LTS** | `RabbitMQ`客户端，支持`workerman`协程
