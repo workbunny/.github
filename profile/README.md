@@ -34,4 +34,5 @@
   <img width="150px" src="https://mmbiz.qpic.cn/mmbiz_png/78qLgY8U7F1umT6oaVuKCN4ibKqiaNOHjCdTKVl1405iczs6IrutF1WXM0otcAGWeedibdCNvcDoDYfGTZDYviacXUA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="workbunny">
 
 ## 🍵 Tips
+如果我们的开源工作对你有帮助，欢迎请我们喝杯咖啡支持我们继续创作：
 - [https://ko-fi.com/chaz6chez](https://ko-fi.com/chaz6chez)
