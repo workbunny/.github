@@ -10,7 +10,7 @@
 - [`Webman`的即时通讯服务套件](https://github.com/workbunny/webman-push-server) | **LTS** | 基于`Redis`的即时通讯服务套件，支持分布式部署、多种颗粒度部署
 - [`Webman`的高速共享缓存套件](https://github.com/workbunny/webman-shared-cache) | **LTS** | 基于`ext-APCu`的进程通讯、高速缓存套件
 - [`Webman`的`Nacos`客户端](https://github.com/workbunny/webman-nacos) | **LTS** | `Nacos 1.0/2.0` 客户端
-- [`Webman`的`RabbitMQ`客户端](https://github.com/workbunny/webman-rabbitmq) | **LTS** | `RabbitMQ`客户端，支持`workerman`协程
+- [`Webman`的`RabbitMQ`客户端](https://github.com/workbunny/webman-rabbitmq) | **LTS** | 一个基于纯 PHP 实现的`AMQP`库，适用于 `webman/workerman`; 可基于实现`client/server`
 - [`Webman`的`Redis-Stream`队列客户端](https://github.com/workbunny/webman-rqueue) | **LTS** | 基于`Redis Stream`的队列客户端
 - [`Webman`的IP本地库](https://github.com/workbunny/webman-ip-attribution) | **LTS** | 本地`ip`库插件
 
