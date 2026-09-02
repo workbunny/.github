@@ -17,12 +17,15 @@
 > 以上所有插件均包含较为完备的单元测试，并在商业化项目中稳定运行，请放心使用
 
 ## 💼 Composer-packages 
+- [用于解析`PHP-AST`的`Zig`库](https://github.com/workbunny/php-ast) | 使用`Zig`语言开发，高效解析`PHP`语法树，输出结构为`SoA`
+- [`Zig`开发`PHP`拓展的骨架库](https://github.com/workbunny/php-zig) | 受`swoole/PHPX`启发的使用`Zig`为开发语言的`PHP-ext`开发骨架
 - [`bny.php`](https://github.com/workbunny/bny.php) | 一个简易的`PHP`管理工具 | 实验性
 - [`Apache ORC`读写库的PHP实现](https://github.com/workbunny/php-orc) | 基于`swoole/phpy`内联调用`python/pyorc`实现，支持`PHP-FPM/PHP-CLI`
 - [`bunny-UI`组件](https://github.com/workbunny/bunny-ui) | 一套`HTMX`开发模式的`Web UI`组件库
 - [轻量的`PHP`多进程助手](https://github.com/workbunny/process) | 对`pcntl_fork()`的极简化封装，让多进程更简单易懂
 - [轻量的`PHP`储存驱动](https://github.com/workbunny/storage) | "简陋"的`SQLite3`驱动
 - [`MySQL`协议的`PHP`实现](https://github.com/workbunny/mysql-protocol) | 使用`PHP`实现的`MySQL`协议解析，支持`workerman/webman`直接接入
+- [`HTTP2`协议的`PHP`实现](https://github.com/workbunny/http2-protocol) | 使用`PHP`实现的`HTTP2`协议解析，支持`workerman/webman`直接接入
 
 ## 💤 Archive
 - [基于事件驱动拓展的PHP高性能轻量级事件循环库](https://github.com/workbunny/event-loop) | 比较好的`event-loop`教学用库，包含较完善的测试用例
